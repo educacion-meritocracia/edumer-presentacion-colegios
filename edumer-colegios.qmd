@@ -1,0 +1,81 @@
+---
+pagetitle: Meritocracia en la Escuela"
+author: Juan Carlos Castillo, Kevin Carrasco, María Fernanda Nuñez & Andreas Laffert
+#bibliography: ../../input/bib/merit-edjust.bib 
+#csl: ../../input/bib/apa7-singlespace.csl
+
+knitr:
+  opts_chunk: 
+    collapse: true
+    comment: "#>" 
+    R.options:
+      knitr.graphics.auto_pdf: true
+      
+format: 
+  revealjs:
+    logo: images/edumer.png
+    slide-number: true
+    theme: [pp.scss]
+    #theme: [pp.scss]
+    title-slide-attributes:
+      visibility: false
+#      data-background-image: images/portada.jpg
+#      data-background-size: cover
+    auto-play-media: true
+
+editor:
+  render-on-save: true
+---
+
+::: {.columns .v-center-container}
+::: {.column width="20%"}
+![](qr.png){width="80%" fig-align="right"} <br> 
+![](images/edumer.png){width="80%" fig-align="left"}
+:::
+
+::: {.column width="80%"}
+:::{.rojo}
+Encuesta  Panel: _Meritocracia en la Escuela_
+:::
+
+### Resultados primera ola 2023
+
+------------------------------------------------------------------------
+
+Fondecyt N° 1210847: Meritocracia en la escuela
+
+Juan Carlos Castillo, Kevin Carrasco, María Fernanda Nuñez & Andreas Laffert
+:::
+:::
+
+## Encuesta _Meritocracia en la Escuela_ 
+
+#### - Estudio Panel entre el año 2023 y 2024, evaluando una muestra de apoderados, docentes y estudiantes de enseñanza básica y media. {style="margin-top:50px"}
+
+#### -  902 estudiantes, 180 apoderados y 26 docentes
+
+#### - Preguntas sobre meritocracia, ciudadanía y desigualdad
+
+## Resultados 1: Meritocracia {data-background-color="black" style="margin-top:300px"}
+
+#### Meritocracia se relaciona con la percepción y la valoración del esfuerzo y el talento para poder salir adelante {style="margin-top:100px"}
+
+## 
+
+#### _¿Son recompensados los esfuerzos?_
+
+
+
+![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-esfuerzo-percep-1.png)
+
+
+
+
+
+
+## Equipo
+
+## 
+
+(repetir slide inicial)
+
