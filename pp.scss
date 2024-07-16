@@ -7,6 +7,7 @@
 // Base settings for all themes that can optionally be
 // overridden by the super-theme
 
+
 // Background of the presentation
 $backgroundColor: #ffffff;
 
@@ -140,6 +141,7 @@ $selectionColor: #fff;
  .black { color: black; }
  .red { color: red; }
  .blue { color: blue; }
+ .dark-blue { color: rgb(29, 29, 103); }
  .green { color: green; }
  .yellow { color: yellow; }
  .orange { color: orange; }
