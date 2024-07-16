@@ -34,59 +34,73 @@ editor:
 }
 </style>
 ```
+##  {data-background-color="black"}
 
 ::: {.columns .v-center-container}
 ::: {.column width="20%"}
-![](qr.png){width="80%" fig-align="right"} <br> 
-![](images/edumer.png){width="80%" fig-align="left"}
+![](qr.png){width="80%" fig-align="right"} <br> ![](images/edumer.png){width="80%" fig-align="left"}
 :::
 
 ::: {.column width="80%"}
-:::{.rojo}
-Encuesta  Panel: _Meritocracia en la Escuela_
+::: rojo
+Encuesta Panel: *Meritocracia en la Escuela*
 :::
 
 ### Resultados primera ola 2023
 
 ------------------------------------------------------------------------
 
-Fondecyt N° 1210847: Meritocracia en la escuela
+[Fondecyt N° 1210847: Meritocracia en la Escuela - EDUMER]{.red}
 
 Juan Carlos Castillo, Kevin Carrasco, María Fernanda Núñez & Andreas Laffert
 :::
 :::
 
-## Encuesta _Meritocracia en la Escuela_ 
+:::{.center}
+## [*Meritocracia en la Escuela*]{.content-box-red}
 
-#### - Estudio Panel entre el año 2023 y 2024, evaluando una muestra de apoderados, docentes y estudiantes de enseñanza básica y media. {style="margin-top:50px"}
+- Estudio Panel entre el año 2023 y 2024, evaluando una muestra de apoderados, docentes y estudiantes de enseñanza básica y media. {style="margin-top:50px"}
 
-#### -  902 estudiantes, 180 apoderados y 26 docentes
+- 902 estudiantes, 180 apoderados y 26 docentes
 
-#### - Preguntas sobre meritocracia, ciudadanía y desigualdad
+- Preguntas sobre meritocracia, ciudadanía y desigualdad
+:::
+
+## Este informe
+
+-   graficos de las principales preguntas
+
+-   en general, las categorías de respuesta van desde muy en desacuerdo (colores más claros) a muy de acuerdo (colores más oscuros)
+
+    ![](images/paste-1.png){width="500" height="42"}
+
+-   en algunas descripciones se considera "en desacuerdo" como la suma de las categorías "Muy en desacuerdo" y "desacuerdo", y lo mismo para las categorías de acuerdo
 
 ## Resultados 1: Meritocracia {data-background-color="black" style="margin-top:300px"}
 
-#### Meritocracia se relaciona con la percepción y la valoración del esfuerzo y el talento para poder salir adelante {style="margin-top:100px"}
+### Meritocracia se relaciona con la percepción y la valoración del esfuerzo y el talento para poder salir adelante {style="margin-top:100px"}
 
-## {.center}
+##  {.center}
 
-#### _¿Son recompensados los esfuerzos?_ 
+#### *¿Son recompensados los esfuerzos?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-esfuerzo-percep-1.png){fig-align="center"}
 
-El porcentaje de estudiantes que percibe que en Chile las personas son recompensadas por sus esfuerzos es notoriamente mayor (67%) que el porcentaje de apoderados (44%). De hecho, más de la mitad de los apoderados no está de acuerdo con esta afirmación.
+:::{.content-box-blue}
+La mayor parte de los estudiantes (67%) está de acuerdo o muy de acuerdo con que en Chile las personas son recompensadas por sus esfuerzos. Esto es mucho menor en los apoderados (44%).
+:::
 
 ## 
 
-#### _¿Son recompensados los esfuerzos?_
+#### *¿Deberían ser recompensados los esfuerzos?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-esfuerzo-pref-1.png){fig-align="center"}
 
-Por otro lado, los porcentajes de estudiantes y apoderados son similares al preguntar si prefieren que las personas que más se esfuerzan reciban mayores recompensas.
+Más de un 90% de estudiantes y apoderados manifiesta que los esfuerzos sí deberían ser recompensados
 
 ## 
 
-#### _¿Son recompensados los esfuerzos?_
+#### *¿Son recompensados los esfuerzos?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-school-esfuerzo-1.png){fig-align="center"}
 
@@ -94,7 +108,7 @@ Al abordar la percepción sobre si en la escuela quienes se esfuerzan obtienen b
 
 ## 
 
-#### _¿Es recompensado el talento?_
+#### *¿Es recompensado el talento?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-talento-percep-1.png){fig-align="center"}
 
@@ -102,7 +116,7 @@ Analizando otra esfera de la meritocracia, el talento, nuevamente el porcentaje 
 
 ## 
 
-#### _¿Es recompensado el talento?_
+#### *¿Es recompensado el talento?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-merito-pref-1.png){fig-align="center"}
 
@@ -110,7 +124,7 @@ En la misma línea, también existe un gran porcentaje de estudiantes (54%) y de
 
 ## 
 
-#### _¿Es recompensado el talento?_
+#### *¿Es recompensado el talento?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-school-talento-1.png){fig-align="center"}
 
@@ -118,7 +132,7 @@ Si analizamos ahora en el contexto escolar, nuevamente existe una gran cantidad 
 
 ## 
 
-#### _¿Las personas obtienen lo que merecen?_
+#### *¿Las personas obtienen lo que merecen?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-merito-percep-1.png){fig-align="center"}
 
@@ -126,7 +140,7 @@ Finalmente, si analizamos la meritocracia de manera general, podemos ver un gran
 
 ## 
 
-#### _¿En la escuela se obtiene lo que merecen?_
+#### *¿En la escuela se obtiene lo que merecen?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-school-merito-1.png){fig-align="center"}
 
@@ -134,7 +148,7 @@ Si pasamos al contexto escolar, contrario a lo observado en la sociedad, un gran
 
 ## 
 
-#### _¿En la escuela se obtiene lo que merecen?_
+#### *¿En la escuela se obtiene lo que merecen?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-notas-merit-1.png){fig-align="center"}
 
@@ -142,7 +156,7 @@ Por último, se le preguntó a cada estudiante si su promedio de notas obtenido 
 
 ## 
 
-#### _¿Las personas tienen las mismas oportunidades para salir adelante?_
+#### *¿Las personas tienen las mismas oportunidades para salir adelante?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-oportunidades-1.png){fig-align="center"}
 
@@ -150,7 +164,7 @@ Analizando otro aspecto de la meritocracia, tanto estudiantes como apoderados ha
 
 ## 
 
-#### _¿Las personas tienen las mismas oportunidades para salir adelante?_
+#### *¿Las personas tienen las mismas oportunidades para salir adelante?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-padres-ricos-percep-1.png){fig-align="center"}
 
@@ -158,7 +172,7 @@ De la misma forma, un gran porcentaje de estudiantes y apoderados cree que quien
 
 ## 
 
-#### _¿Las personas tienen las mismas oportunidades para salir adelante?_
+#### *¿Las personas tienen las mismas oportunidades para salir adelante?*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-padres-ricos-pref-1.png){fig-align="center"}
 
@@ -170,7 +184,7 @@ Contrario a lo anterior, mientras que un 54% de estudiantes cree que está bien 
 
 ## 
 
-#### _Formación ciudadana en la escuela_
+#### *Formación ciudadana en la escuela*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-importancia-ciudadania-1.png){fig-align="center"}
 
@@ -178,7 +192,7 @@ En términos generales, el mayor porcentaje de estudiantes (47%) cree que en su 
 
 ## 
 
-#### _Formación ciudadana en la escuela_
+#### *Formación ciudadana en la escuela*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-eficacia-pre-1.png){fig-align="center"}
 
@@ -186,7 +200,7 @@ Un gran porcentaje de estudiantes (60%) está de acuerdo con que son capaces de 
 
 ## 
 
-#### _Formación ciudadana en la escuela_
+#### *Formación ciudadana en la escuela*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-opinion-1.png){fig-align="center"}
 
@@ -194,7 +208,7 @@ Asimismo, destaca que un 90% de estudiantes cree que es importante respetar el d
 
 ## 
 
-#### _Formación ciudadana en la escuela_
+#### *Formación ciudadana en la escuela*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-clases-ES-1.png){fig-align="center"}
 
@@ -202,63 +216,61 @@ Lo anterior es similar a lo percibido por los estudiantes durante clases, ya que
 
 ## 
 
-#### _Formación ciudadana en la escuela_
+#### *Formación ciudadana en la escuela*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-clases-PROF-1.png){fig-align="center"}
 
 Asimismo, una amplia mayoría de estudiantes señala que siempre o casi siempre los/as profesores los estimulan a expresar sus opiniones y a conversar los temas con gente que opina distinto.
 
-##
+## 
 
-#### _Participación política_
+#### *Participación política*
 
-::: {.columns}
-
+::: columns
 ::: {.column width="50%"}
-
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-marcha-pacifica-1.png)
-
 :::
 
 ::: {.column width="50%"}
-
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-toma-1.png)
 :::
 :::
 
 En relación con la participación política de los estudiantes, cerca de un tercio señala no haber participado en una marcha pacífica, mientras que un 87% señala no haber participado en una toma.
 
-##
+## 
 
-#### _Participación política_
+#### *Participación política*
 
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-protesta-1.png){fig-align="center"}
 
 Sin embargo, a pesar de la baja participación política señalada anteriormente, un 46% de los estudiantes seña que es importante o muy importante participar en protestas pacíficas en contra de las leyes que consideren injustas.
 
-##
+## 
 
-#### _Participación política_
+#### *Participación política*
 
-::: {.columns}
-::: {.column}
+::: columns
+::: column
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-nacional-1.png){fig-align="left"}
 :::
-::: {.column}
+
+::: column
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-partido-1.png){fig-align="right"}
 :::
 :::
 
 De la misma forma, una gran mayoría de estudiantes señalan que es importante o muy importante (76%) votar en todas las elecciones nacionales y, en mucha menor medida (32%) señalan que es importante o muy importante unirse a un partido político.
 
-##
+## 
 
-#### _Expectativas de Participación política_
+#### *Expectativas de Participación política*
 
-::: {.columns}
+::: columns
 ::: {.column width="50%"}
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-pres-1.png){fig-align="center"}
 :::
+
 ::: {.column width="50%"}
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-mun-1.png){fig-align="right"}
 :::
@@ -270,33 +282,31 @@ Finalmente, y en concordancia con lo anterior, una gran mayoría de estudiantes 
 
 #### **Meritocracia**
 
-- Los estudiantes tienden a valorar el esfuerzo y el talento para poder salir adelante, percibiendo un escenario de igualdad de oportunidades para todas las personas. Sin embargo, consideran que las personas no obtienen lo que merecen.
-- En el contexto escolar, perciben que el esfuerzo y el talento están asociados a mejores notas y, además, que la mayoría obtiene las notas que merecen.
+-   Los estudiantes tienden a valorar el esfuerzo y el talento para poder salir adelante, percibiendo un escenario de igualdad de oportunidades para todas las personas. Sin embargo, consideran que las personas no obtienen lo que merecen.
+-   En el contexto escolar, perciben que el esfuerzo y el talento están asociados a mejores notas y, además, que la mayoría obtiene las notas que merecen.
 
 #### **Ciudadanía**
 
-- Los estudiantes tienden a valorar las instancias de discusión y participación en la sala de clases, aunque no participan formalmente de la política. De todas formas, se muestran inclinados a participar en el futuro, además de tener una amplia valoración de las instancias formales de participación política, exceptuando unirse a un partido político.
+-   Los estudiantes tienden a valorar las instancias de discusión y participación en la sala de clases, aunque no participan formalmente de la política. De todas formas, se muestran inclinados a participar en el futuro, además de tener una amplia valoración de las instancias formales de participación política, exceptuando unirse a un partido político.
 
 ## Informe completo {data-background-color="black" style="margin-top:300px"}
 
-#### [https://educacion-meritocracia.github.io/edumer-ola1/](https://educacion-meritocracia.github.io/edumer-ola1/)
+#### <https://educacion-meritocracia.github.io/edumer-ola1/>
 
 ## Equipo
 
 ![](images/team.png)
 
-
 ## 
 
 ::: {.columns .v-center-container}
 ::: {.column width="20%"}
-![](qr.png){width="80%" fig-align="right"} <br> 
-![](images/edumer.png){width="80%" fig-align="left"}
+![](qr.png){width="80%" fig-align="right"} <br> ![](images/edumer.png){width="80%" fig-align="left"}
 :::
 
 ::: {.column width="80%"}
-:::{.rojo}
-Encuesta  Panel: _Meritocracia en la Escuela_
+::: rojo
+Encuesta Panel: *Meritocracia en la Escuela*
 :::
 
 ### Resultados primera ola 2023
@@ -308,4 +318,3 @@ Fondecyt N° 1210847: Meritocracia en la escuela
 Juan Carlos Castillo, Kevin Carrasco, María Fernanda Núñez & Andreas Laffert
 :::
 :::
-
