@@ -60,13 +60,13 @@ Juan Carlos Castillo, Kevin Carrasco, María Fernanda Núñez & Andreas Laffert
 
 ## Este informe
 
--   graficos de las principales preguntas
+-   Gráficos de las principales preguntas
 
--   en general, las categorías de respuesta van desde muy en desacuerdo (colores más claros) a muy de acuerdo (colores más oscuros)
+-   En general, las categorías de respuesta van desde muy en desacuerdo (colores más claros) a muy de acuerdo (colores más oscuros)
 
     ![](images/paste-1.png){width="500" height="42"}
 
--   en algunas descripciones se considera "en desacuerdo" como la suma de las categorías "Muy en desacuerdo" y "desacuerdo", y lo mismo para las categorías de acuerdo
+-   En algunas descripciones se considera "en desacuerdo" como la suma de las categorías "Muy en desacuerdo" y "desacuerdo", y lo mismo para las categorías de acuerdo
 
 # Resultados 1: Meritocracia {data-background-color="black"}
 
@@ -85,7 +85,11 @@ Meritocracia se relaciona con la percepción y la valoración del esfuerzo y el 
 
 :::{.content-box-blue}
 
-La mayor parte de los estudiantes (67%) está de acuerdo o muy de acuerdo con que en Chile las personas son recompensadas por sus esfuerzos. Esto es mucho menor en los apoderados (44%).
+La mayor parte de los estudiantes (67%) está de acuerdo o muy de acuerdo con que en Chile las personas son recompensadas por sus esfuerzos.
+:::
+
+:::{.content-box-blue}
+Esto es mucho menor en los apoderados (44%).
 :::
 :::
 :::
@@ -212,9 +216,6 @@ Un gran porcentaje de estudiantes (75%) y de apoderados (80%) cree que en sus es
 #### [_**¿La nota obtenida es la que merecen?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-notas-merit-1.png){fig-align="center"}
-:::
 :::{.column width="30%" }
 <br />
 <br />
@@ -223,7 +224,12 @@ Un gran porcentaje de estudiantes (75%) y de apoderados (80%) cree que en sus es
 Alrededor de un 80% de los estudiantes considera que sus calificaciones son justas.
 :::
 :::
+
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/meritocracia_files/figure-html/plot-notas-merit-1.png){fig-align="center"}
 :::
+:::
+
 ## 
 
 #### [_**¿Las personas tienen las mismas oportunidades para salir adelante?**_]{.dark-blue}
@@ -269,22 +275,23 @@ Un gran porcentaje de estudiantes (71%) y apoderados (83%) cree que quienes tien
 <br />
 
 :::{.content-box-blue}
-Un 54% de estudiantes cree que está bien que quienes tienen padres ricos les vaya bien en la vida, mientras que un 65% de apoderados está en desacuerdo con esta afirmación.
+Un 54% de estudiantes cree que está bien que quienes tienen padres ricos les vaya bien en la vida.
 :::
-:::
-:::
-## Resultados 2: Ciudadanía {data-background-color="black" style="margin-top:300px"}
 
-#### La ciudadanía se relaciona con dar respuesta a la necesidad de preparar a las nuevas generaciones para la vida en democracia y sus requerimientos morales y cognitivos. {style="margin-top:100px"}
+:::{.content-box-blue}
+Un 65% de apoderados está en desacuerdo con esta afirmación.
+:::
+:::
+:::
+# Resultados 2:  <br> Ciudadanía {data-background-color="black"}
+
+La ciudadanía se relaciona con dar respuesta a la necesidad de preparar a las nuevas generaciones para la vida en democracia y sus requerimientos morales y cognitivos.
 
 ## 
 
 #### [_**¿Es importante la Formación ciudadana en mi escuela?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-importancia-ciudadania-1.png){fig-align="center"}
-:::
 :::{.column width="30%" }
 <br />
 <br />
@@ -293,15 +300,15 @@ Un 54% de estudiantes cree que está bien que quienes tienen padres ricos les va
 Un gran porcentaje de estudiantes (47%) cree que en su escuela se le da una mediana importancia a la Formación Ciudadana.
 :::
 :::
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-importancia-ciudadania-1.png){fig-align="center"}
+:::
 :::
 ## 
 
 #### [_**¿Comprendo las problemáticas políticas del país?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-eficacia-pre-1.png){fig-align="center"}
-:::
 :::{.column width="30%" }
 <br />
 <br />
@@ -310,15 +317,16 @@ Un gran porcentaje de estudiantes (47%) cree que en su escuela se le da una medi
 Un gran porcentaje de estudiantes (60%) está de acuerdo con que son capaces de comprender bien las problemáticas políticas del país.
 :::
 :::
+
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-eficacia-pre-1.png){fig-align="center"}
+:::
 :::
 ## 
 
 #### [_**¿Es importante que otros puedan tener su propia opinión?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-opinion-1.png){fig-align="center"}
-:::
 :::{.column width="30%" }
 <br />
 <br />
@@ -327,19 +335,27 @@ Un gran porcentaje de estudiantes (60%) está de acuerdo con que son capaces de 
 Un 90% de estudiantes manifiesta que es importante respetar el derecho de otros a tener su propia opinión.
 :::
 :::
+
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-opinion-1.png){fig-align="center"}
+:::
 :::
 ## 
 
 #### [_**¿Pueden los estudiantes discutir sobre temas políticos y sociales durante clases?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
+::: {.column width="60%"}
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-clases-ES-1.png){fig-align="center"}
 :::
-:::{.column width="30%" }
+:::{.column width="40%" }
 
 :::{.content-box-blue}
-Una gran mayoría de estudiantes casi siempre puede manifestar abiertamente su desacuerdo con sus profesores. Por otro lado, es menor el porcentaje que puede plantear hechos políticos de actualidad para ser discutidos en clases.
+Una gran mayoría de estudiantes casi siempre puede manifestar abiertamente su desacuerdo con sus profesores (42%). 
+:::
+
+:::{.content-box-blue}
+Es menor el porcentaje que puede plantear casi siempre hechos políticos de actualidad para ser discutidos en clases (27%).
 :::
 :::
 :::
@@ -364,25 +380,43 @@ Una amplia mayoría de estudiantes señala que siempre o casi siempre los/as pro
 #### [_**¿Los estudiantes han participado políticamente?**_]{.dark-blue}
 
 ::: columns
-::: {.column width="50%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-marcha-pacifica-1.png)
+:::{.column width="30%" }
+<br />
+<br />
+
+:::{.content-box-blue}
+Alrededor de un tercio de los estudiantes señala haber participado en una marcha pacífica (26%).
+:::
+:::
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-marcha-pacifica-1.png){fig-align="center"}
+:::
 :::
 
-::: {.column width="50%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-toma-1.png)
-:::
-:::
+## 
+
+#### [_**¿Los estudiantes han participado políticamente?**_]{.dark-blue}
+
+::: columns
+:::{.column width="30%" }
+<br />
+<br />
+
 :::{.content-box-blue}
-Alrededor de un tercio de los estudiantes señala haber participado en una marcha pacífica, mientras que un 13% señala haber participado en una toma.
+Un 13% de los estudiantes señala haber participado en una toma.
 :::
+:::
+
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-toma-1.png){fig-align="center"}
+:::
+:::
+
 ## 
 
 #### [_**¿Es importante la participación política?**_]{.dark-blue}
 
 ::: {.columns}
-::: {.column width="70%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-protesta-1.png){fig-align="center"}
-:::
 :::{.column width="30%" }
 <br />
 
@@ -390,39 +424,87 @@ Alrededor de un tercio de los estudiantes señala haber participado en una march
 Un 46% de los estudiantes señala que es importante o muy importante participar en protestas pacíficas en contra de las leyes que consideren injustas.
 :::
 :::
+
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-protesta-1.png){fig-align="center"}
+:::
 :::
 ## 
 
 #### [_**¿Es importante la participación política?**_]{.dark-blue}
 
 ::: columns
-::: column
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-nacional-1.png){fig-align="left"}
+:::{.column width="30%" }
+<br />
+<br />
+
+:::{.content-box-blue}
+Una gran mayoría de estudiantes señalan que es importante o muy importante (76%) votar en todas las elecciones nacionales.
+:::
+:::
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-nacional-1.png){fig-align="center"}
+:::
 :::
 
-::: column
+##
+
+#### [_**¿Es importante la participación política?**_]{.dark-blue}
+
+::: columns
+:::{.column width="30%" }
+<br />
+<br />
+
+:::{.content-box-blue}
+Un 32% de los estudiantes señalan que es importante o muy importante unirse a un partido político.
+:::
+:::
+::: {.column width="70%"}
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-partido-1.png){fig-align="right"}
 :::
 :::
-:::{.content-box-blue}
-Una gran mayoría de estudiantes señalan que es importante o muy importante (76%) votar en todas las elecciones nacionales y, en mucha menor medida (32%) señalan que es importante o muy importante unirse a un partido político.
-:::
+
 ## 
 
 #### [_**¿Los estudiantes esperan participar políticamente en el futuro?**_]{.dark-blue}
 
 ::: columns
-::: {.column width="50%"}
-![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-pres-1.png){fig-align="center"}
+:::{.column width="30%" }
+<br />
+<br />
+
+:::{.content-box-blue}
+Un 57% de los estudiantes esta seguro de que votará en las elecciones presidenciales cuando sea adulto. 
+:::
 :::
 
-::: {.column width="50%"}
+::: {.column width="70%"}
+![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-pres-1.png){fig-align="center"}
+:::
+:::
+
+##
+
+#### [_**¿Los estudiantes esperan participar políticamente en el futuro?**_]{.dark-blue}
+
+::: columns
+:::{.column width="30%" }
+<br />
+<br />
+
+:::{.content-box-blue}
+Un 39% de los estudiantes probablemente votará en las elecciones municipales cuando sea adulto. 
+:::
+:::
+
+::: {.column width="70%"}
 ![](https://educacion-meritocracia.github.io/edumer-ola1/ciudadania_files/figure-html/plot-voto-mun-1.png){fig-align="right"}
 :::
 :::
-:::{.content-box-blue}
-Una gran mayoría de estudiantes señala que seguramente o probablemente votará en elecciones presidenciales y municipales cuando sea adulto.
-:::
+
+
+
 ## Conclusiones {data-background-color="black"}
 
 #### **Meritocracia**
